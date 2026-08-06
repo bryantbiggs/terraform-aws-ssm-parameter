@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.2](https://github.com/terraform-aws-modules/terraform-aws-ssm-parameter/compare/v2.1.1...v2.1.2) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#22](https://github.com/terraform-aws-modules/terraform-aws-ssm-parameter/issues/22)) ([1c10871](https://github.com/terraform-aws-modules/terraform-aws-ssm-parameter/commit/1c10871461fa47b4a508ff27d3ba2f4408377e9b))
+
 ## [2.1.1](https://github.com/terraform-aws-modules/terraform-aws-ssm-parameter/compare/v2.1.0...v2.1.1) (2026-07-05)
 
 ### Bug Fixes
